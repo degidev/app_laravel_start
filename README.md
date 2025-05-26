@@ -18,7 +18,6 @@ This is a Laravel project template with modern UI components and styling framewo
 - Tailwind CSS 4.x
 - Flowbite UI Components
 - Bootstrap Icons
-- Font Awesome Icons
 
 ## 🛠️ Prerequisites
 
@@ -26,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 - PHP >= 8.2
 - Composer
 - Node.js and npm
-- MySQL/MariaDB
+- MySQL
 - Git
 
 ## 📦 Installation
