@@ -15,9 +15,9 @@
 
 This is a Laravel project template with modern UI components and styling frameworks. It includes:
 - Laravel 12.x
-- Tailwind CSS 3.x
-- Bootstrap 5.x
+- Tailwind CSS 4.x
 - Flowbite UI Components
+- Bootstrap Icons
 - Font Awesome Icons
 
 ## 🛠️ Prerequisites
@@ -95,25 +95,19 @@ This project uses multiple frontend frameworks:
 - Styles in: `resources/css/app.css`
 - Build command: `npm run build`
 
-### Bootstrap
-- Included via npm
-- Custom styles in: `resources/css/bootstrap.css`
-
 ### Flowbite
 - Components available in: `resources/js/components`
 - Initialize components in: `resources/js/app.js`
 
 ### Icons
-- Font Awesome icons included
-- Use in Blade templates: `<i class="fas fa-icon-name"></i>`
+- Bootstrap Icons included
+- Use in Blade templates: `<i class="bi bi-icon-name"></i>`
 
 ## 📚 Learning Resources
 
 - [Laravel Documentation](https://laravel.com/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/)
 - [Flowbite Documentation](https://flowbite.com/docs/)
-- [Font Awesome Icons](https://fontawesome.com/icons)
 
 ## 🤝 Contributing
 

@@ -40,12 +40,6 @@ git checkout -b feature/your-feature-name
 - Use meaningful variable and function names
 - Add comments where necessary
 
-### Testing
-
-1. Run all tests before submitting a pull request:
-```bash
-php artisan test
-```
 
 2. If adding new features, include corresponding tests
 
